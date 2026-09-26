@@ -1,2 +1,5 @@
 Flask==3.0.2
 aiohttp==3.10.5
+gunicorn==22.0.0
+curl_cffi==0.7.3
+requests==2.32.3
